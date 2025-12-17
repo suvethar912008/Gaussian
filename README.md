@@ -26,8 +26,7 @@ RegisterNumber: 25016521
 
 ## Output:
 ![gaussian elimination]()
-<img width="1145" height="826" alt="Screenshot 2025-12-17 101214" src="https://github.com/user-attachments/assets/4d0029f9-6edd-4a60-9ec7-86d810a44e7c" />
-
+<img width="818" height="425" alt="Screenshot 2025-12-17 101227" src="https://github.com/user-attachments/assets/ff8b7aae-93ad-411a-a50e-1f49058c3d95" />
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
